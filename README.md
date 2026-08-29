@@ -58,9 +58,7 @@ Anything you’d normally open a separate AI tab for — without the tab:
 
 > Placeholder — demo videos 
 
-- [yes] Getting started in 60 seconds
-- [yes] Using Solve / Explain / Translate / Quick Ask
-- [yes] Stealth settings & the wait note
+<video src="https://github.com/user-attachments/assets/57ddc8bd-54d1-4f54-add4-c014d4be8eaa" controls="controls" style="max-width: 100%;"></video>
 
 
 ---
