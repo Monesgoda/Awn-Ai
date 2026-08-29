@@ -1,6 +1,12 @@
 # 🕵️ StealthClip — invisible clipboard AI assistant
 <img width="1408" height="768" alt="Gemini_Generated_Image_naziafnaziafnazi" src="https://github.com/user-attachments/assets/4223b3cf-0449-43d4-b684-8d6d618b7ed0" />
 
+## 📹 Videos
+
+> Placeholder — demo videos 
+
+<video src="https://github.com/user-attachments/assets/57ddc8bd-54d1-4f54-add4-c014d4be8eaa" controls="controls" style="max-width: 100%;"></video>
+
 **Copy anything → press `Ctrl+Alt+A` → paste a ready answer.**
 
 A tiny Windows background tool that sends what you copy to **your local
@@ -53,16 +59,6 @@ Anything you’d normally open a separate AI tab for — without the tab:
 - 🛡️ **100% local** — talks only to `127.0.0.1` (ports `30231` / `8051`).
 - 🆓 **Open source** — MIT, no analytics, no accounts (except your own AI
   provider).
-
----
-
-## 📹 Videos
-
-> Placeholder — demo videos 
-
-<video src="https://github.com/user-attachments/assets/57ddc8bd-54d1-4f54-add4-c014d4be8eaa" controls="controls" style="max-width: 100%;"></video>
-
-
 ---
 
 ## 🚀 Quick start (beginners: read [`INSTALL.md`](INSTALL.md))
