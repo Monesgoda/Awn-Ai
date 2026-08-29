@@ -56,11 +56,12 @@ Anything you’d normally open a separate AI tab for — without the tab:
 
 ## 📹 Videos
 
-> Placeholder — demo videos coming soon.
+> Placeholder — demo videos 
 
-- [ ] Getting started in 60 seconds
-- [ ] Using Solve / Explain / Translate / Quick Ask
-- [ ] Stealth settings & the wait note
+- [yes] Getting started in 60 seconds
+- [yes] Using Solve / Explain / Translate / Quick Ask
+- [yes] Stealth settings & the wait note
+
 
 ---
 
