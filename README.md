@@ -1,5 +1,5 @@
 # 🕵️ StealthClip — invisible clipboard AI assistant
----<img width="1408" height="768" alt="Gemini_Generated_Image_naziafnaziafnazi" src="https://github.com/user-attachments/assets/4223b3cf-0449-43d4-b684-8d6d618b7ed0" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_naziafnaziafnazi" src="https://github.com/user-attachments/assets/4223b3cf-0449-43d4-b684-8d6d618b7ed0" />
 
 **Copy anything → press `Ctrl+Alt+A` → paste a ready answer.**
 
